@@ -1,11 +1,10 @@
-var mouseX,mouseY;
-background(255,255,255);
-//tomato
-noStroke();
-fill(224,90,90);
-ellipse(150,200,150,150);
-ellipse(212,200,150,150);
-
-//stem
-fill(48,130,131);
-rect(176,108,12,32);
+Bill
+small town
+big company 31 years
+IT and Finance
+Cadillac owner
+Daughter 
+2 Sons
+Gwen
+Rosco
+Chickens
